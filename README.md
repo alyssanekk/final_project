@@ -27,10 +27,15 @@ Costa Rica =
 Alajuelita (Alajuela) = 885,571 
 Other Canton Populations:
 San Jose  = 1,404,212
+
 Cartago = 490,903
+
 Guanacaste = 354,154
+
 Heredia = 433,677
+
 Limon = 386, 862
+
 Puntarenas = 410, 929
 
 **Population Analysis** 
@@ -54,11 +59,12 @@ This regression analysis uses the population data and the night time lights valu
 ![regression](project2pt1_stretchgoal1_attempt.png)
 
 
-## Health Care Facilities, Urban Areas, and Roadways 
-3. Provide results from your description of human settlements, roadways and health care facilities.  Include supplemental tables that describe settlements, roadways and health care facilities as well as three-dimensional plots to further support your description, analysis, interpretation and findings.  Analyze and interpret your results in terms of the spatial distribution and size of human settlements, transportation facilities' level-of-service and health care services' accessibility.  Include relevants plots, tables and other supplemental information to support your analysis, interpretation and findings.  Assess the state of human development in the administrative subdivisions within your selected LMIC and state your finding.
+## Health Care Facilities, Urban Areas, and Roadways (#3)
+
 ### Population Points
 The image below demonstrates the population points in the Goicoechea region. Each miniscule dot is supposed to represent a person so the darker the region the more populated the area was.
 ![](Goicoechea_pop_points.png)
+
 ### Urban Areas
 Then, we had to take the contour lines to represent different density levels and apply them to the graph. The image below represents the urban areas findings.
 ![](Goicoechea_urban_areas.png)
@@ -77,6 +83,8 @@ ROADWAYS
 | Primary | Secondary | Tertiary |
 | ------- |:---------:| --------:|
 |3        |1          |1         |
+
+The following image shows the roadways throughout Goicoechea.
 ![](roadways_.png)
 
 ### Health Centers
@@ -93,7 +101,7 @@ The image below contains the health centers. The dark red dot is the hospital, t
 
 ### Final Compiled Image
 The image below overlays the roadways and the health centers onto the density distributed Goicoechea.
-![roadways and hospital image](roadways_and_hospitals.png)
+![density, roadways, and hospital image](all_combined_project3.png)
 
 ### Overlay
 This was the final image that was overlayed to make the 3-D image.
