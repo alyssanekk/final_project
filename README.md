@@ -14,6 +14,13 @@ san jose and how it gets more and more crowded there
 ![bar chart stretch goal](project_1_part3_stretch_goal_1.png)
 ![Costa Rica GIF](CostaRica.gif)
 
+project 2:
+
+![diagram](project2_part2_alajuelita_pop.png)
+![mapview](project2_part2_mapview.png)
+![3-d](project2_part2_plot3D.png)
+![regression](project2pt1_stretchgoal1_attempt.png)
+
 
 Incorporate the plots you have produced through the course of the semester, but also be sure to provide description, analysis and interpretation of the material as part of a comprehensive narrative.  Do not simply add everything you have produced, but instead strategically select the most relevant plots that support your written description, analysis and interpretation of the state of human development in the administrative subdivisions within your selected LMIC. 
 
