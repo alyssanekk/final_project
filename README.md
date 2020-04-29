@@ -109,3 +109,17 @@ This was the final image that was overlayed to make the 3-D image.
 
 ### Final 3-D Product
 ![final product](final_image.png)
+
+### State of Human Development
+According to:
+http://hdr.undp.org/sites/all/themes/hdr_theme/country-notes/CRI.pdf
+https://www.macrotrends.net/countries/CRI/costa-rica/life-expectancy
+https://tradingeconomics.com/costa-rica/gni-per-capita-ppp-us-dollar-wb-data.html
+
+The human development index in 2018 was about 0.794 which has increased since 1990.
+The life expectancy = 80.19 years
+The literacy rate = 96%
+The GNI/capita PPP = 16700
+
+### Final Thoughts
+I thought this project was fin! I'm glad I stepped out of my comfort zone and tried a class that I knew nothing about. I'm intrigued by all the data that's out there to the public. I think that there are a lot of cool things you can do with "r". At this point, I'd love to go to Costa Rica to explore and verify information here (plus the weathers great and it's beautiful there!!).
