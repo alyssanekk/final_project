@@ -28,8 +28,8 @@ project 3:
 ![roadways and hospital image](roadways_and_hospitals.png)
 
 project 4:
-![](.png)
-![](.png)
+![combined](combined.png)
+![final product](final_image.png)
 
 Incorporate the plots you have produced through the course of the semester, but also be sure to provide description, analysis and interpretation of the material as part of a comprehensive narrative.  Do not simply add everything you have produced, but instead strategically select the most relevant plots that support your written description, analysis and interpretation of the state of human development in the administrative subdivisions within your selected LMIC. 
 
