@@ -36,7 +36,7 @@ Puntarenas = 410, 929
 **Population Analysis** 
 ### Predicted Values
 ![diagram](project2_part2_alajuelita_pop.png)  
-I decided to choose the division Alajuelita, Costa Rica as the canton that I looked into deeper. The image below demonsrates the difference between the predicted value and the actual population value given. We needed to isolate a region that had both large and small populations in the same area.
+I decided to choose the division Alajuelita, Costa Rica as the canton that I looked into deeper. The image above demonsrates the difference between the predicted value and the actual population value given. We needed to isolate a region that had both large and small populations in the same area.
 
 ### Density and Lights
 ![density and light plot](project2_histogramanddensity_ntl.png)
@@ -61,6 +61,18 @@ project 3:
 ![density image](density_image.png)
 ![urban areas w points](Goicoechea_urban_areas_with_points.png)
 ![roadways and hospital image](roadways_and_hospitals.png)
+
+HEALTH CARE FACILITIES
+
+| Clinics | Hospitals | Dentist | Pharmacy | Doctors |
+| ------- |:---------:|:-------:|:--------:| -------:|
+|9        |1          |14       |18        |2        |
+
+ROADWAYS
+
+| Primary | Secondary | Tertiary |
+| ------- |:---------:| --------:|
+|3        |1          |1         |
 
 project 4:
 ![combined](combined.png)
