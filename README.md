@@ -1,5 +1,5 @@
 # Costa Rica
-## Projects by: Alyssa Nekritz
+## by: Alyssa Nekritz
 ### Country: Costa Rica
 ### Administrative Subdivisions: Alajuelita and Goicoechea
 
