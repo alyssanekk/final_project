@@ -53,14 +53,33 @@ This image is a 3-D representation of the spatial values for Alajuelita, Costa R
 This regression analysis uses the population data and the night time lights values. as the predictors for the population of Costa Rica in 2019.
 ![regression](project2pt1_stretchgoal1_attempt.png)
 
- 
+
+## Health Care Facilities, Urban Areas, and Roadways 
 3. Provide results from your description of human settlements, roadways and health care facilities.  Include supplemental tables that describe settlements, roadways and health care facilities as well as three-dimensional plots to further support your description, analysis, interpretation and findings.  Analyze and interpret your results in terms of the spatial distribution and size of human settlements, transportation facilities' level-of-service and health care services' accessibility.  Include relevants plots, tables and other supplemental information to support your analysis, interpretation and findings.  Assess the state of human development in the administrative subdivisions within your selected LMIC and state your finding.
-
-project 3:
-
-![density image](density_image.png)
+### Population Points
+The image below demonstrates the population points in the Goicoechea region. Each miniscule dot is supposed to represent a person so the darker the region the more populated the area was.
+![](Goicoechea_pop_points.png)
+### Urban Areas
+Then, we had to take the contour lines to represent different density levels and apply them to the graph. The image below represents the urban areas findings.
+![](Goicoechea_urban_areas.png)
+Then, density dots were added. Larger dots = larger population densities
 ![urban areas w points](Goicoechea_urban_areas_with_points.png)
-![roadways and hospital image](roadways_and_hospitals.png)
+
+### Density Image
+Here's the final density image for the subdivision Goicoechea. The pinker areas are the higher densities
+![density image](density_image.png)
+
+### Roadways
+The thickest line is the primary route. The thinnest line is the tertiary route or the unknown. There isn't that much data about the roadways in Goicoechea.
+
+ROADWAYS
+
+| Primary | Secondary | Tertiary |
+| ------- |:---------:| --------:|
+|3        |1          |1         |
+![](roadways_.png)
+
+### Health Centers
 
 HEALTH CARE FACILITIES
 
@@ -68,12 +87,17 @@ HEALTH CARE FACILITIES
 | ------- |:---------:|:-------:|:--------:| -------:|
 |9        |1          |14       |18        |2        |
 
-ROADWAYS
+The image below contains the health centers. The dark red dot is the hospital, the orange dots are the densists, pharmacies, and doctors, and the red dots are the clinics
+![](health_centers.png)
 
-| Primary | Secondary | Tertiary |
-| ------- |:---------:| --------:|
-|3        |1          |1         |
 
-project 4:
+### Final Compiled Image
+The image below overlays the roadways and the health centers onto the density distributed Goicoechea.
+![roadways and hospital image](roadways_and_hospitals.png)
+
+### Overlay
+This was the final image that was overlayed to make the 3-D image.
 ![combined](combined.png)
+
+### Final 3-D Product
 ![final product](final_image.png)
