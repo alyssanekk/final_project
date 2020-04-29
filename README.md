@@ -1,22 +1,23 @@
 # Costa Rica
 ## Projects by: Alyssa Nekritz
 ### Country: Costa Rica
-### Subdivisions: Alajuelita and Goicoechea
+### Administrative Subdivisions: Alajuelita and Goicoechea
 
-1. Describe the political subdivisions of your LMIC and selected administrative subdivisions.  Use a spatial description of the political subdivisions of your LMIC at the first, second and/or third administrative levels as appropriate and identify the location of your selected administrative subdivisions. Provide a detailed, spatial description of the political subdivided administrative areas you selected within your LMIC.  Increase the scale of these administrative areas to make details more readily interpretable.
-project 1:
-talk about the island that we couldn't get rid of
-talk about the subdivisions
-tlak about the city and provinces
-san jose and how it gets more and more crowded there
+**1.**
+Costa Rica has 7 provinces, 84 cantons, and 478 districts. The first administrative subdivision breakdown is represented by the image below.
+The darkest region, San Jose, is the most populated region. It's the capital of the country and the provice currently has 1,404,242 residents in a 4,966km^2 area. There's a high density there.
+### Administrtive Subdivisions of Costa Rica - Level 1
+![Provinces](cri_pop19.png)
 
-
+The next image represents the breakdoen of the second administrative subdivision. The words are jumbled near the center of the country, by the capital, and that's where the urban population mostly resides. If you zoom into the picture, you get a clearer image of the cantons, like Ascota right above the San Jose lettering. Cocos Island, the tiny dot on the bottom left of the image is technically part of Costa Rica, so it's included in the image. If it was taken away, the subdivision imagery would be better.
+### Administrative Subdivisions of Costa Rica - Levels 1 & 2
 ![subdivisions](costa_rica_homework.png)
-![Side-by-Side](costa_rica_project1part3_bothcharts.png)
-![bar chart stretch goal](project_1_part3_stretch_goal_1.png)
-![Costa Rica GIF](CostaRica.gif)
 
-project 2:
+The following is a chart and map demonstrating the densities of the subdivisions clearly. In descending order, the population percentages are shown based on the country's population data. There weren't that many gridcells, so I didn't need to subset an area like others did. The center of the country is the most populated and it gets less dense as you move outward. It has to deal with the topography of the areas. There are a lot of forested areas where the population densities are smaller.
+### Population of Costa Rica's Provinces
+![Side-by-Side](costa_rica_project1part3_bothcharts.png)
+### Population of Costa Rica's Cantons in a 3-D format (gif)
+![Costa Rica GIF](CostaRica.gif)
 
 ![diagram](project2_part2_alajuelita_pop.png)
 ![mapview](project2_part2_mapview.png)
