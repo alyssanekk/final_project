@@ -4,18 +4,20 @@
 ### Administrative Subdivisions: Alajuelita and Goicoechea
 
 ## Administrative Divisions (#1)
-Costa Rica has 7 provinces, 82 cantons, and 478 districts. The first administrative subdivision breakdown is represented by the image below.
-The darkest region, San Jose, is the most populated region. It's the capital of the country and the provice currently has 1,404,242 residents in a 4,966km^2 area. There's a high density there.
+
 ### Administrtive Subdivisions of Costa Rica - Level 1
 ![Provinces](cri_pop19.png)
+Costa Rica has 7 provinces, 82 cantons, and 478 districts. The first administrative subdivision breakdown is represented by the image below.
+The darkest region, San Jose, is the most populated region. It's the capital of the country and the provice currently has 1,404,242 residents in a 4,966km^2 area. There's a high density there.
 
-The next image represents the breakdoen of the second administrative subdivision. The words are jumbled near the center of the country, by the capital, and that's where the urban population mostly resides. If you zoom into the picture, you get a clearer image of the cantons, like Ascota right above the San Jose lettering. Cocos Island, the tiny dot on the bottom left of the image is technically part of Costa Rica, so it's included in the image. If it was taken away, the subdivision imagery would be better.
 ### Administrative Subdivisions of Costa Rica - Levels 1 & 2
 ![subdivisions](costa_rica_homework.png)
+The next image represents the breakdoen of the second administrative subdivision. The words are jumbled near the center of the country, by the capital, and that's where the urban population mostly resides. If you zoom into the picture, you get a clearer image of the cantons, like Ascota right above the San Jose lettering. Cocos Island, the tiny dot on the bottom left of the image is technically part of Costa Rica, so it's included in the image. If it was taken away, the subdivision imagery would be better.
 
-The following is a chart and map demonstrating the densities of the subdivisions clearly. In descending order, the population percentages are shown based on the country's population data. There weren't that many gridcells, so I didn't need to subset an area like others did. The center of the country is the most populated and it gets less dense as you move outward. It has to deal with the topography of the areas. There are a lot of forested areas where the population densities are smaller.
 ### Population of Costa Rica's Provinces
 ![Side-by-Side](costa_rica_project1part3_bothcharts.png)
+This a chart and map demonstrating the densities of the subdivisions clearly. In descending order, the population percentages are shown based on the country's population data. There weren't that many gridcells, so I didn't need to subset an area like others did. The center of the country is the most populated and it gets less dense as you move outward. It has to deal with the topography of the areas. There are a lot of forested areas where the population densities are smaller.
+
 ### Population of Costa Rica's Cantons in a 3-D format (gif)
 ![Costa Rica GIF](CostaRica.gif)
 
@@ -31,17 +33,24 @@ Heredia = 433,677
 Limon = 386, 862
 Puntarenas = 410, 929
 
-**Population Analysis**
-Include histograms, density plots, three-dimensional plots, overlays and other supplemental information as needed. 
-  
+**Population Analysis** 
+### Predicted Values
+![diagram](project2_part2_alajuelita_pop.png)  
 I decided to choose the division Alajuelita, Costa Rica as the canton that I looked into deeper. The image below demonsrates the difference between the predicted value and the actual population value given. We needed to isolate a region that had both large and small populations in the same area.
-![diagram](project2_part2_alajuelita_pop.png)
 
+### Density and Lights
+![density and light plot](project2_histogramanddensity_ntl.png)
+This image uses a histogram to show the night time lights for each canton subdivision of Costa Rica and then combined it with the density plot. It's in descending order.
 
+### Mapview Imagery
+This shows the errors on a map viewpoint. 
 ![mapview](project2_part2_mapview.png)
+### 3-D Spatial Values
+This image is a 3-D representation of the spatial values for Alajuelita, Costa Rica.
 ![3-d](project2_part2_plot3D.png)
 
-This regression analysis uses water data and dst011 as the predictors for the population of Costa Rica in 2019.
+### Regression Analysis
+This regression analysis uses the population data and the night time lights values. as the predictors for the population of Costa Rica in 2019.
 ![regression](project2pt1_stretchgoal1_attempt.png)
 
  
