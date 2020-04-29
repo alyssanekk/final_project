@@ -2,6 +2,13 @@
 
 This is my final project on Costa Rica 
 
+project 1:
+talk about the island that we couldn't get rid of
+talk about the subdivisions
+tlak about the city and provinces
+san jose and how it gets more and more crowded there
+
+
 Incorporate the plots you have produced through the course of the semester, but also be sure to provide description, analysis and interpretation of the material as part of a comprehensive narrative.  Do not simply add everything you have produced, but instead strategically select the most relevant plots that support your written description, analysis and interpretation of the state of human development in the administrative subdivisions within your selected LMIC. 
 
 Include in your final project deliverable individual sections that address the following. 
