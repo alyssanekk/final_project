@@ -68,7 +68,7 @@ The image below demonstrates the population points in the Goicoechea region. Eac
 ### Urban Areas
 Then, we had to take the contour lines to represent different density levels and apply them to the graph. The image below represents the urban areas findings.
 ![](Goicoechea_urban_areas.png)
-Then, density dots were added. Low = Blue, High = Black
+Then, density dots were added. Low = Red, High = Blue
 ![urban areas w points](Goicoechea_urban_areas_with_points.png)
 
 ### Density Image
