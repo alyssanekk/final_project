@@ -21,6 +21,15 @@ project 2:
 ![3-d](project2_part2_plot3D.png)
 ![regression](project2pt1_stretchgoal1_attempt.png)
 
+project 3:
+
+![density image](density_image.png)
+![urban areas w points](Goicoechea_urban_areas_with_points.png)
+![roadways and hospital image](roadways_and_hospitals.png)
+
+project 4:
+![](.png)
+![](.png)
 
 Incorporate the plots you have produced through the course of the semester, but also be sure to provide description, analysis and interpretation of the material as part of a comprehensive narrative.  Do not simply add everything you have produced, but instead strategically select the most relevant plots that support your written description, analysis and interpretation of the state of human development in the administrative subdivisions within your selected LMIC. 
 
