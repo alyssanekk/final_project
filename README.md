@@ -122,4 +122,4 @@ The literacy rate = 96%
 The GNI/capita PPP = 16700
 
 ### Final Thoughts
-I thought this project was fin! I'm glad I stepped out of my comfort zone and tried a class that I knew nothing about. I'm intrigued by all the data that's out there to the public. I think that there are a lot of cool things you can do with "r". At this point, I'd love to go to Costa Rica to explore and verify information here (plus the weathers great and it's beautiful there!!).
+I thought this project was fun! I'm glad I stepped out of my comfort zone and tried a class that I knew nothing about. I'm intrigued by all the data that's out there to the public. I think that there are a lot of cool things you can do with "r". At this point, I'd love to go to Costa Rica to explore and verify information here (plus the weathers great and it's beautiful there!!).
