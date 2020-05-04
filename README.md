@@ -61,6 +61,8 @@ This regression analysis uses the population data and the night time lights valu
 
 ## Health Care Facilities, Urban Areas, and Roadways (#3)
 
+I changed from Alajuelita to Goicoechea because of population. I needed a subdivision with a larger population so one closer to the capital with areound 125,000 people was a better size to show development. 
+
 ### Population Points
 The image below demonstrates the population points in the Goicoechea region. Each miniscule dot is supposed to represent a person so the darker the region the more populated the area was.
 ![](Goicoechea_pop_points.png)
